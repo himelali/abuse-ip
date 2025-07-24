@@ -1,5 +1,5 @@
 {
-  "name": "himelali/abuse-ip",
+  "name": "himelali/laravel-abuse-ip",
   "description": "Block ip address of all spammer's around the world.",
   "keywords": [
     "framework",
