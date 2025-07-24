@@ -4,7 +4,7 @@
 
 ##Keep you webiste safe from spammer.
 
-![Packagist Downloads](https://img.shields.io/packagist/dt/himelali/abuse-ip) ![Packagist Version](https://img.shields.io/packagist/v/himelali/abuse-ip) [![License: MIT](https://img.shields.io/badge/License-MPL%202.0-brightgreen.svg)](https://opensource.org/license/mit) [![Update SPAM IP List](https://github.com/himelali/abuse-ip/actions/workflows/update_spamiplist.yml/badge.svg)](https://github.com/himelali/abuse-ip/actions/workflows/update_spamiplist.yml)
+![Packagist Downloads](https://img.shields.io/packagist/dt/himelali/laravel-abuse-ip) ![Packagist Version](https://img.shields.io/packagist/v/himelali/laravel-abuse-ip) [![License: MIT](https://img.shields.io/badge/License-MPL%202.0-brightgreen.svg)](https://opensource.org/license/mit) [![Update SPAM IP List](https://github.com/himelali/laravel-abuse-ip/actions/workflows/update_spamiplist.yml/badge.svg)](https://github.com/himelali/laravel-abuse-ip/actions/workflows/update_spamiplist.yml)
 
 Adds a Security to Laravel for checking whether the IP address is safe or marked as spam to keep you out of worry from spammers and fake data to your website.
 Uses the AbuseIPDB blocklist from [borestad/blocklist-abuseipdb](https://github.com/borestad/blocklist-abuseipdb) by default.
@@ -14,7 +14,7 @@ Uses the AbuseIPDB blocklist from [borestad/blocklist-abuseipdb](https://github.
 1. Run the Composer require command to install the package. The service provider is discovered automatically.
 
     ```bash
-    composer require himelali/abuse-ip
+    composer require himelali/laravel-abuse-ip
     ```
 
 2. Publish the configuration file and adapt the configuration as desired:
