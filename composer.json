@@ -1,5 +1,5 @@
 {
-  "name": "rahulalam31/laravel-abuse-ip",
+  "name": "himelali/abuse-ip",
   "description": "Block ip address of all spammer's around the world.",
   "keywords": [
     "framework",
@@ -19,12 +19,12 @@
   "require": {
     "php": "^8.0",
     "ext-json": "*",
-    "illuminate/cache": "^8.0|^9.0|^10.0|^11.0",
-    "illuminate/config": "^8.0|^9.0|^10.0|^11.0",
-    "illuminate/contracts": "^8.0|^9.0|^10.0|^11.0",
-    "illuminate/support": "^8.0|^9.0|^10.0|^11.0",
-    "illuminate/console": "^8.0|^9.0|^10.0|^11.0",
-    "illuminate/validation": "^8.0|^9.0|^10.0|^11.0",
+    "illuminate/cache": "^8.0|^9.0|^10.0|^11.0|^12.0",
+    "illuminate/config": "^8.0|^9.0|^10.0|^11.0|^12.0",
+    "illuminate/contracts": "^8.0|^9.0|^10.0|^11.0|^12.0",
+    "illuminate/support": "^8.0|^9.0|^10.0|^11.0|^12.0",
+    "illuminate/console": "^8.0|^9.0|^10.0|^11.0|^12.0",
+    "illuminate/validation": "^8.0|^9.0|^10.0|^11.0|^12.0",
     "guzzlehttp/guzzle": "^7.0|^7.9"
   },
   "require-dev": {
